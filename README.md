@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jyoee18
+- 👋 Hi, I’m Jyothishree
 - 🌱 Biotech grad, now learning bioinformatics at Lund University.
 - 📫 Reach out on linkedin if you wanna chat bio, coding or brownies!
 - 😄 Pronouns: she/her
